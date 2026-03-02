@@ -4,19 +4,6 @@
 
 OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a single TypeScript implementation to 30+ alternatives across 8+ programming languages, these projects optimize for everything from $10 microcontrollers to enterprise security.
 
-## Contents
-
-- [Original](#original)
-- [Ultra-Lightweight (Sub-10MB)](#ultra-lightweight-sub-10mb)
-- [Security-Focused](#security-focused)
-- [Minimal/Research-Friendly](#minimalresearch-friendly)
-- [Other Implementations](#other-implementations)
-- [Cloud/Managed Services](#cloudmanaged-services)
-- [Enterprise/Commercial](#enterprisecommercial)
-- [By Programming Language](#by-programming-language)
-- [Resources](#resources)
-
-
 ### OpenClaw
 **TypeScript | ~5.98s startup | 1.52GB RAM**
 - [Github](https://github.com/openclaw/openclaw) | 243k+ ⭐
