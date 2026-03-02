@@ -6,7 +6,7 @@ OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a 
 
 ### OpenClaw
 **TypeScript | ~5.98s startup | 1.52GB RAM**
-- [Github](https://github.com/openclaw/openclaw) | 243k+ ⭐
+- [Github](https://github.com/openclaw/openclaw)
 - Formerly Clawdbot → Moltbot → OpenClaw
 - The reference implementation that started it all
 - Full-featured with 15+ messaging platforms, 430k+ LOC
@@ -14,7 +14,7 @@ OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a 
 
 ### PicoClaw
 **Go | ~8MB binary | <10MB RAM**
-- [Github](https://github.com/sipeed/picoclaw) | 21k+ ⭐
+- [Github](https://github.com/sipeed/picoclaw)
 - Built for $10 hardware (RISC-V, ARM, x86)
 - 95% AI-generated code
 - Single self-contained binary
@@ -22,7 +22,7 @@ OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a 
 
 ### NullClaw
 **Zig | 678KB binary | ~1MB RAM**
-- [Github](https://github.com/nullclaw/nullclaw) | 1.4k+ ⭐
+- [Github](https://github.com/nullclaw/nullclaw)
 - <2ms startup on Apple Silicon
 - 3,230+ passing tests (highest in ecosystem)
 - 22+ providers, Arduino/Raspberry Pi support
