@@ -30,7 +30,7 @@ OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a 
 
 ### ZeroClaw
 **Rust | 3.4MB binary | <5MB RAM**
-- [Github](https://github.com/openagen/zeroclaw)
+- [Github](https://github.com/zeroclaw-labs/zeroclaw)
 - <10ms startup
 - Trait-based pluggable architecture
 - "Zero compromise" philosophy
