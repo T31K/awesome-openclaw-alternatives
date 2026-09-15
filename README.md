@@ -35,6 +35,14 @@ OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a 
 - Trait-based pluggable architecture
 - "Zero compromise" philosophy
 
+### Vellum
+**TypeScript | - | -**
+- [Github](https://github.com/vellum-ai/vellum-assistant)
+- Personal AI assistant with persistent memory and scheduled tasks
+- Self-hosted runtime or optional managed hosting
+- Desktop, mobile, web, and messaging clients
+- MCP integrations and local model support through Ollama
+
 ### zclaw
 **C | 888KB firmware | -**
 - [Github](https://github.com/tnm/zclaw)
@@ -136,6 +144,7 @@ OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a 
 | Nanobot | Python | - | ~100MB | - | - |
 | IronClaw | Rust | - | - | - | 3.2k+ |
 | NanoClaw | TypeScript | - | - | - | 7k+ |
+| Vellum | TypeScript | - | - | - | - |
 
 ---
 
