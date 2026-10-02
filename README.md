@@ -4,6 +4,8 @@
 
 OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a single TypeScript implementation to 30+ alternatives across 8+ programming languages, these projects optimize for everything from $10 microcontrollers to enterprise security.
 
+**Native-host harness:** [AutoBot](https://github.com/demeyer1/Autobot) - A local operating harness for native ChatGPT and Codex that adds on-disk memory, privacy zones and verifier-backed completion instead of a separate agent gateway.
+
 ### OpenClaw
 **TypeScript | ~5.98s startup | 1.52GB RAM**
 - [Github](https://github.com/openclaw/openclaw)
