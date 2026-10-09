@@ -121,6 +121,16 @@ OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a 
 - Skill-driven for edge hardware
 - Ultra-efficient execution
 
+### Chickpea
+**TypeScript | Cloudflare Worker or Node | -**
+- [Github](https://github.com/pejmanjohn/chickpea)
+- Shared AI agents for a team in Slack, each with its own @handle, instructions, model, memory, and connected accounts
+- Runs in your own Cloudflare account (Workers Free plan) or on a Node host
+- Sending, deleting, publishing, and bulk changes wait for a person's approval in Slack
+- Credentials never enter the model's context
+- 37 connector presets, plus any HTTP API or remote MCP server
+- Apache 2.0 licensed
+
 ---
 
 
