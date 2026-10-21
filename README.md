@@ -110,6 +110,16 @@ OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a 
 - Continuously generates reports/scripts
 - Autonomous research agent
 
+### Atomic Agent
+**TypeScript | - | -**
+- [Github](https://github.com/AtomicBot-ai/atomic-agent)
+- Desktop app for macOS (Apple Silicon), Windows and Linux, plus a terminal agent
+- Local models through llama.cpp, or cloud models via OpenRouter and other providers
+- Grammar-constrained (GBNF) tool calls on local backends
+- Approvals before shell commands, file writes and other risky actions
+- First run can import OpenClaw sessions and cron jobs
+- MIT licensed
+
 ### shrew
 **Rust | - | -**
 - Compact autonomous assistant
@@ -136,6 +146,7 @@ OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a 
 | Nanobot | Python | - | ~100MB | - | - |
 | IronClaw | Rust | - | - | - | 3.2k+ |
 | NanoClaw | TypeScript | - | - | - | 7k+ |
+| Atomic Agent | TypeScript | - | - | - | 3.4k+ |
 
 ---
 
