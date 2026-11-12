@@ -121,6 +121,15 @@ OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a 
 - Skill-driven for edge hardware
 - Ultra-efficient execution
 
+### Founderizer
+**Python | - | -**
+- [Github](https://github.com/founderizer/founderizer)
+- A team of always-on agents with roles, standing duties and a manager
+- Agents run as Claude Code or Codex sessions on the plan you already pay for
+- Your own Linux server or a Mac that stays on, with a one-line installer for Ubuntu and Debian
+- Mac app for chats, tasks and the decisions that need you
+- Python standard library only, Apache-2.0 licensed
+
 ---
 
 
@@ -136,6 +145,7 @@ OpenClaw (formerly Clawdbot → Moltbot) sparked an ecosystem explosion. From a 
 | Nanobot | Python | - | ~100MB | - | - |
 | IronClaw | Rust | - | - | - | 3.2k+ |
 | NanoClaw | TypeScript | - | - | - | 7k+ |
+| Founderizer | Python | - | - | - | - |
 
 ---
 
